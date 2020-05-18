@@ -1,0 +1,70 @@
+{
+  "members": [
+    {
+      "firstName": "Alexis",
+      "lastName": "Sain",
+      "jobTitle": "Driver",
+      "team": "World Rally Championship - Car 77",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "firstName": "Janis",
+      "lastName": "Laker",
+      "jobTitle": "Driver",
+      "team": "Formula 2 - Car 63",
+      "status": "Inactive",
+      "id": 5
+    },
+    {
+      "firstName": "Noah",
+      "lastName": "Jaren",
+      "jobTitle": "Driver",
+      "team": "World Endurance Championship - Car 5",
+      "status": "Active",
+      "id": 6
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Formula 1 - Car 77"
+    },
+    {
+      "id": 2,
+      "teamName": "Formula 1 - Car 8"
+    },
+    {
+      "id": 3,
+      "teamName": "Formula 2 - Car 54"
+    },
+    {
+      "id": 4,
+      "teamName": "Formula 2 - Car 63"
+    },
+    {
+      "id": 5,
+      "teamName": "Deutsche Tourenwagen Masters - Car 117"
+    },
+    {
+      "id": 6,
+      "teamName": "Deutsche Tourenwagen Masters - Car 118"
+    },
+    {
+      "id": 7,
+      "teamName": "World Endurance Championship - Car 99"
+    },
+    {
+      "id": 8,
+      "teamName": "World Endurance Championship - Car 5"
+    },
+    {
+      "id": 9,
+      "teamName": "World Rally Championship - Car 77"
+    },
+    {
+      "id": 10,
+      "teamName": "World Rally Championship - Car 90"
+    }
+  ]
+}
